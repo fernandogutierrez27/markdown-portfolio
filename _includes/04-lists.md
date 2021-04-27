@@ -1,0 +1,3 @@
+- Read programming books
+- View soccer matches
+- Eat BBQ
