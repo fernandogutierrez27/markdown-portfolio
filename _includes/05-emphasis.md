@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I've a __MCSD__ certification as *App Builder*, that includes a **MCSA** certification on *Web Applications*.
+
+I'm also **Microsoft Certified** as *Azure Developer*
