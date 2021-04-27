@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+
+View my [LinkedIn](https://www.linkedin.com/in/fernando-gutierrez-aguilera/)
